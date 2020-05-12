@@ -7,3 +7,5 @@ The function takes a ordered list of numbers eg:
 
 and returns the range:
  "-6,-3-1,3-5,7-11,14,15,17-20"
+ 
+ If the data that is being received is not ordered, simply use Python's sorted() or .sort()
